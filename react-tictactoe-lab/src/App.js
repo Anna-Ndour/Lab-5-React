@@ -1,7 +1,7 @@
-export default function Square() {
+export default function Board() {
   return(
     <>
-      <div classname="board-row">
+      <div className="board-row">
 
         <button className="square">X</button>
         <button className="square">X</button>
